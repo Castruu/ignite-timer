@@ -20,7 +20,6 @@ export const HistoryList = styled.div`
 
   display: flex;
   flex-direction: column;
-  justify-content: center;
 
   table {
     width: 100%;
